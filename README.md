@@ -28,6 +28,8 @@ The design supports execution of machine-level instructions including arithmetic
 * SHL R2, 2
 * JMP and JE instructions
 
+## Tool : https://github.com/hneemann/Digital
+
 ## Academic Purpose
 
 This project is intended for educational demonstration of:
@@ -37,7 +39,6 @@ This project is intended for educational demonstration of:
 * Memory interfacing
 * Control signal generation
 
-## Tool : https://github.com/hneemann/Digital
 
 ---
 
