@@ -43,5 +43,5 @@ This project is intended for educational demonstration of:
 ---
 
 **Author:** Nafiu Rahman
-**Course:** CSE 3203 – Computer Architecture
+**Course:** Computer Architecture
 **Institutional Assignment Submission**
