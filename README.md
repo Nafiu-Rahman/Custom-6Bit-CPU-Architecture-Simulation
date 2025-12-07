@@ -37,6 +37,8 @@ This project is intended for educational demonstration of:
 * Memory interfacing
 * Control signal generation
 
+## Tool : https://github.com/hneemann/Digital
+
 ---
 
 **Author:** Nafiu Rahman
