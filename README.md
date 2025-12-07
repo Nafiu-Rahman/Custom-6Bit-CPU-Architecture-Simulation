@@ -1,6 +1,6 @@
 # 6-Bit Custom CPU Design With ALU, RAM, and ISA
 
-This project presents the complete design and simulation of a custom **6-bit CPU architecture** developed as part of the **CSE 3203 Computer Architecture Assignment**. The CPU includes a fully functional **ALU**, **Register Set**, **RAM**, **Instruction Set Architecture (ISA)**, and **Control Unit**.
+This project presents the complete design and simulation of a custom **6-bit CPU architecture** developed as part of the **Computer Architecture Assignment**. The CPU includes a fully functional **ALU**, **Register Set**, **RAM**, **Instruction Set Architecture (ISA)**, and **Control Unit**.
 
 ## Key Features
 
